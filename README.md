@@ -27,8 +27,7 @@ In the future, to create databases for client needs, I will continue to use stra
 
 What do computer scientists do, and why does it matter?
 How would your work on this type of project help a company like Grazioso Salvare to do their work better?
-Computer scientists solve problems by designing, building, and improving software systems, algorithms, and data management tools. Their work matters because it enables businesses and organizations to operate more efficiently, analyze information faster, and make better data-based decisions.
 
-In this project for Grazioso Salvare, my work helps the company by providing a user-friendly dashboard that makes it easier to access and visualize important animal data. Instead of manually searching through records, Grazioso Salvare staff can now quickly filter, locate, and analyze dogs that meet their search-and-rescue criteria. This allows them to train and deploy dogs faster, ultimately saving more lives during emergencies. The dashboard improves both accuracy and speed, helping Grazioso Salvare fulfill their mission more effectively.
+Computer scientists solve problems by designing, building, and improving software systems, algorithms, and data management tools. Their work matters because it enables businesses and organizations to operate more efficiently, analyze information faster, and make better data-based decisions. In this project for Grazioso Salvare, my work helps the company by providing a user-friendly dashboard that makes it easier to access and visualize important animal data. Instead of manually searching through records, Grazioso Salvare staff can now quickly filter, locate, and analyze dogs that meet their search-and-rescue criteria. This allows them to train and deploy dogs faster, ultimately saving more lives during emergencies. The dashboard improves both accuracy and speed, helping Grazioso Salvare fulfill its mission more effectively.
 
 
